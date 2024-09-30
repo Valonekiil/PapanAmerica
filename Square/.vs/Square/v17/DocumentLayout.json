@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Experimenter\\ExperimenterSource\\ExperimenterSource\\Chapter2\\Square\\",
+  "WorkspaceRootPath": "S:\\Giyhub\\PapanAmerica\\Square\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9D328E5-7175-4A31-88C1-F12547A59613}|Square.vcxproj|C:\\Experimenter\\ExperimenterSource\\ExperimenterSource\\Chapter2\\Square\\square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D9D328E5-7175-4A31-88C1-F12547A59613}|Square.vcxproj|S:\\Giyhub\\PapanAmerica\\Square\\square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D9D328E5-7175-4A31-88C1-F12547A59613}|Square.vcxproj|solutionrelative:square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "square.cpp",
-              "DocumentMoniker": "C:\\Experimenter\\ExperimenterSource\\ExperimenterSource\\Chapter2\\Square\\square.cpp",
+              "DocumentMoniker": "S:\\Giyhub\\PapanAmerica\\Square\\square.cpp",
               "RelativeDocumentMoniker": "square.cpp",
-              "ToolTip": "C:\\Experimenter\\ExperimenterSource\\ExperimenterSource\\Chapter2\\Square\\square.cpp",
+              "ToolTip": "S:\\Giyhub\\PapanAmerica\\Square\\square.cpp",
               "RelativeToolTip": "square.cpp",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAgwLcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-29T04:25:21.655Z",
               "EditorCaption": ""
