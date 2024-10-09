@@ -1,0 +1,13 @@
+﻿  square.cpp
+S:\Giyhub\PapanAmerica\Plafon triplexx\square.cpp(23,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+S:\Giyhub\PapanAmerica\Plafon triplexx\square.cpp(23,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+S:\Giyhub\PapanAmerica\Plafon triplexx\square.cpp(23,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+S:\Giyhub\PapanAmerica\Plafon triplexx\square.cpp(34,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+S:\Giyhub\PapanAmerica\Plafon triplexx\square.cpp(34,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+S:\Giyhub\PapanAmerica\Plafon triplexx\square.cpp(43,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+S:\Giyhub\PapanAmerica\Plafon triplexx\square.cpp(43,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+S:\Giyhub\PapanAmerica\Plafon triplexx\square.cpp(43,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+S:\Giyhub\PapanAmerica\Plafon triplexx\square.cpp(70,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+S:\Giyhub\PapanAmerica\Plafon triplexx\square.cpp(70,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+S:\Giyhub\PapanAmerica\Plafon triplexx\square.cpp(70,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Square.vcxproj -> S:\Giyhub\PapanAmerica\Plafon triplexx\Debug\Square.exe
